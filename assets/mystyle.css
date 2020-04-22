@@ -1,0 +1,12 @@
+.navbar-default{
+	background-color: #584887;
+	color: white;
+}
+
+.navbar-default .navbar-header a{
+	color: white;
+}
+
+.pushdown{
+	margin-top: 50px;
+}
